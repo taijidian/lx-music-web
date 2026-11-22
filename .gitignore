@@ -1,0 +1,7 @@
+# 运行时与私密文件，勿提交
+secrets/
+certs/
+acme-webroot/
+favpls-data/
+*.env
+__pycache__/
